@@ -1,4 +1,4 @@
-Final Project 420AP1AS - Quang Toa Duong - Student ID: 2600255
+Final Project 420AP1AS - Quang Toa Duong 
 
 - In my opinion, the concept that I feel most confident about is do-while because when I learnt that, I realized that I can apply this concept to many fields
 of life (validation, password, biometric,....).
